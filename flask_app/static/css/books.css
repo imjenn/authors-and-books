@@ -1,0 +1,73 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#container {
+    display: flex;
+    margin-top: 100px;
+    padding-top: 30px;
+    width: 60%;
+    justify-content: space-evenly;
+    border: 1px solid grey;
+    height: 500px;
+}
+
+h2 {
+    margin: 30px 0;
+}
+
+input {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.books-links {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+button {
+    display: flex;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.home:hover, button:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    transition: 1.7ms ease-in;
+}
+
+.home {
+    margin: 20px 56% 0 0;
+    color: black;
+    font-size: large;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 7px 10px;
+    text-decoration: none;
+    background-color: whitesmoke;
+}
+
+.flash {
+    margin-top: 10px;
+    background-color: rgb(255, 149, 149);
+    padding: 5px;
+} */
